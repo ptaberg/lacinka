@@ -1,0 +1,62 @@
+{
+  "_from": "lacinka",
+  "_id": "lacinka@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-vyU3y/WTklbTuQpfh33cjTR2PdID2Fq8go2aaJWFLnOuvPOypLkYVPYJ/GiSh53vV+x/wDe/6jhmDBocAACWEg==",
+  "_location": "/lacinka",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "lacinka",
+    "name": "lacinka",
+    "escapedName": "lacinka",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/lacinka/-/lacinka-1.2.0.tgz",
+  "_shasum": "ef4dd6b724d50a696d2fc2693b4ebca68b9da78d",
+  "_spec": "lacinka",
+  "_where": "/home/kolja/Documents/sc-web-platform",
+  "author": {
+    "name": "Kolja P.",
+    "email": "ptashym@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ptaberg/lacinka/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "The converter for transliterating Belarusian language",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "homepage": "https://github.com/ptaberg/lacinka#readme",
+  "keywords": [
+    "lacinka",
+    "belarusian",
+    "language",
+    "translit",
+    "converter",
+    "convert",
+    "utf-8",
+    "latin",
+    "cyrillic"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "lacinka",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptaberg/lacinka.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "version": "1.2.0"
+}
